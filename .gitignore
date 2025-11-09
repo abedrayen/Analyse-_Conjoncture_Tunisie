@@ -1,0 +1,29 @@
+venv/
+# Virtual environments
+venv/
+env/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Configuration files (if they contain sensitive data)
+config.ini
+settings.py # If it contains sensitive data, otherwise commit it
+
+# Operating System specific files
+.DS_Store
+Thumbs.db
