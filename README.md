@@ -103,6 +103,6 @@ Pour toute question ou problème, vérifiez que :
 
 ---
 
-**Auteur** : Analyse Politico-Économique  
-**Date** : 2024
+**Auteur** : Abed Rayen 
+**Date** : 2025
 
